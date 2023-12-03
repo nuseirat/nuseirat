@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Mohammed</h1>
 <h3 align="center">A passionate Software Engineer, Studying CS at AOU.</h3>
-(img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/Jwfg5rODEiVWyr9aQU")
+
+<div style="width:100%;height:0;padding-bottom:125%;position:relative;"><iframe src="https://giphy.com/embed/Jwfg5rODEiVWyr9aQU" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Jwfg5rODEiVWyr9aQU">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuseirat&label=Profile%20views&color=0e75b6&style=flat" alt="nuseirat" /> </p>
 
