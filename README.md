@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mohammed</h1>
 <h3 align="center">A passionate Software Engineer, Studying CS at AOU.</h3>
 
-img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/Jwfg5rODEiVWyr9aQU"
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/Jwfg5rODEiVWyr9aQU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuseirat&label=Profile%20views&color=0e75b6&style=flat" alt="nuseirat" /> </p>
 
