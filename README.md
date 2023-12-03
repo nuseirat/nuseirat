@@ -1,5 +1,5 @@
 #  About Me:
- I’m currently learning SQL and Data Science<br> All of my projects are available at https://nuseirat.github.io/<br> How to reach me mnuseirat@outlook.sa<br> My Resume https://www.docdroid.net/6vpfHhV/mohammed-nuseirat-cv-pdf<br>
+ - I’m currently learning SQL and Data Science<br> - All of my projects are available at https://nuseirat.github.io/<br> - How to reach me mnuseirat@outlook.sa<br> - My Resume https://www.docdroid.net/6vpfHhV/mohammed-nuseirat-cv-pdf<br>
 
 
 ## 🌐 Socials:
