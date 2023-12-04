@@ -21,7 +21,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=nuseirat&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![NewProject_1_-_online-video-cutter com__3_](https://github.com/nuseirat/jkl-/assets/130251088/148c949f-5644-4dbc-ab91-5f471ccb1ff3)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
