@@ -35,7 +35,7 @@
 [![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/nuseirat?tab=repositories)&nbsp;
 [![ocerleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)](https://github.com/nuseirat?tab=repositories)&nbsp;
 [![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/nuseirat?tab=repositories)&nbsp;
-[![ios](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/nuseirat?tab=repositories)&nbsp;
+[![ios](https://img.shields.io/badge/ios%20os-000000?style=for-the-badge&logo=ios&logoColor=white)](https://github.com/nuseirat?tab=repositories)&nbsp;
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/nuseirat?tab=repositories)&nbsp;
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nuseirat?tab=repositories)&nbsp;
 [![x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://github.com/nuseirat?tab=repositories)&nbsp;
