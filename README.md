@@ -1,27 +1,49 @@
-#  About Me:
- - I’m currently learning SQL and Data Science<br> - All of my projects are available at https://nuseirat.github.io/<br> - How to reach me mnuseirat@outlook.sa<br> - My Resume https://www.docdroid.net/6vpfHhV/mohammed-nuseirat-cv-pdf<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=859fc2&height=120&section=header"/>
+
+## Hi there 👋
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammednuseirat) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MohaNuseirat) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nuseirat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nuseirat&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nuseirat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nuseirat&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nuseirat&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=nuseirat&icon=0&color=0)](https://visitcount.itsvg.in)
+#### You can find me in:
 
 
+[My Website](https://nuseirat.github.io/)&nbsp; visit my website
+
+[Linkedin](https://www.linkedin.com/in/mohammednuseirat/)&nbsp; Check out my Linkedin Account 
+
+[X account](https://twitter.com/MohaNuseirat)&nbsp; See me on X
+
+[My Blog](https://nuseirat.hashnode.dev/)&nbsp; Read what I blog about
+
+[Email](mailto:mnuseirat@outlook.sa)&nbsp; Contact me via Email
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## My competencies
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/nuseirat?tab=repositories)&nbsp;
+[![Java](https://img.shields.io/badge/Java-00000F?style=for-the-badge&logo=Java&logoColor=blue)](https://github.com/nuseirat?tab=repositories)&nbsp;
+[![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](https://github.com/nuseirat?tab=repositories)&nbsp;
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/nuseirat?tab=repositories)&nbsp;
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/nuseirat?tab=repositories)&nbsp;
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/nuseirat?tab=repositories)&nbsp;
+[![LaTex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://github.com/nuseirat?tab=repositories)&nbsp;
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/nuseirat?tab=repositories)&nbsp;
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://github.com/nuseirat?tab=repositories)&nbsp;
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://github.com/nuseirat?tab=repositories)&nbsp;
+[![Eclips](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://github.com/nuseirat?tab=repositories)&nbsp;
+[![Inteliji](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://github.com/nuseirat?tab=repositories)&nbsp;
+[![note++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://github.com/nuseirat?tab=repositories)&nbsp;
+[![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://github.com/nuseirat?tab=repositories)&nbsp;
+[![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/nuseirat?tab=repositories)&nbsp;
+[![ocerleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)](https://github.com/nuseirat?tab=repositories)&nbsp;
+[![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/nuseirat?tab=repositories)&nbsp;
+[![ios](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/nuseirat?tab=repositories)&nbsp;
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/nuseirat?tab=repositories)&nbsp;
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nuseirat?tab=repositories)&nbsp;
+[![x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://github.com/nuseirat?tab=repositories)&nbsp;
+
+
+
+
+
+## If you liked my profile, I will be very appreciate, if you Star ⭐ my repos.
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=859fc2&height=120&section=footer"/>
