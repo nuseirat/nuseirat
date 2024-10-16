@@ -44,6 +44,6 @@
 
 
 
-## If you liked my profile, I will be very appreciate, if you Star ⭐ my repos.
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=859fc2&height=120&section=footer"/>
