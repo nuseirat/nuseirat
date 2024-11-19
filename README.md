@@ -2,7 +2,6 @@
 
 ## Hi there 👋
 
-
 #### You can find me in:
 
 
